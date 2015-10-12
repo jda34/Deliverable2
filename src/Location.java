@@ -27,7 +27,6 @@ public class Location {
 		locs[4] = new Location("University", "Fifth Ave", 3, "Chirp St",2);
 		Location nextLocation; 
 		int nextLocationNumber;
-		Street nextStreet;
 
 
 		String viaStreet;
